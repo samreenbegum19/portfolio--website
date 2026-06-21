@@ -1,3 +1,67 @@
 th,td{
     border: 2px solid black;
 }
+.about{
+    width: 500px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 10px;
+    text-align: center;
+     }
+     .abouth{/* class selector*/
+color: blue;
+
+     }
+     #education{
+        border: 2px solid black;
+        padding: 20px;
+        margin: 20px;
+        
+
+     }
+     .educationh{
+        color:blue ;
+        
+    
+     }
+     table{
+        width: 100%;
+     }
+     th,td{
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+     }
+     .skillsh{
+        color: blue;
+        
+     }
+     #skill{
+        margin: 20px;
+        padding: 10px;
+
+    }
+
+    .achiev{
+        margin: 20px;
+        padding: 10px;
+    }
+    div h3:first-child{
+        color: blue;
+    }
+    .hobbiesh{
+       
+        color: blue;
+    }
+    #hobbies{
+        margin: 20px;
+        padding: 10px;
+    }
+    .contactme{
+        margin: 20px;
+        padding: 10px;
+    }
+    #contactmeh{
+        color: blue;
+    }
